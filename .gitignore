@@ -1,0 +1,22 @@
+# ===== 機密ファイル =====
+lineToken.txt
+lineUserId.txt
+credentials.json
+credential.csv
+rootUrl.txt
+
+# ===== 実行データ（個人情報含む可能性あり） =====
+reservedCourt.csv
+expectedDate.csv
+jogaibi.csv
+
+# ===== ビルド & ログ =====
+target/
+log/
+*.log
+
+# ===== IDE関連 =====
+.idea/
+*.iml
+.DS_Store
+dist/
