@@ -20,3 +20,4 @@ log/
 *.iml
 .DS_Store
 dist/
+log.txt
